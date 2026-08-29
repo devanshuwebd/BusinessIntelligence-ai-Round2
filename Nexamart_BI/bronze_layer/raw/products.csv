@@ -1,0 +1,52 @@
+product_id,product_name,category,price
+P001,NexaFresh 1,Grocery,1186.17
+P002,NexaTab 2,Electronics,71697.86
+P003,NexaBuds 3,Electronics,57043.59
+P004,NexaOrganic 4,Grocery,1836.11
+P005,NexaClassic 5,Fashion,1670.14
+P006,NexaCool 6,Home Appliances,9129.77
+P007,NexaWash 7,Home Appliances,4968.55
+P008,NexaMix 8,Home Appliances,39312.49
+P009,NexaOrganic 9,Grocery,1843.23
+P010,NexaCam 10,Electronics,55440.86
+P011,NexaFresh 11,Grocery,159.7
+P012,NexaDaily 12,Grocery,2912.74
+P013,NexaFitPro 13,Sports,10123.36
+P014,NexaWatch 14,Electronics,22226.72
+P015,NexaGear 15,Sports,2836.44
+P016,NexaGlow 16,Beauty,1345.41
+P017,NexaTab 17,Electronics,28384.23
+P018,NexaBuds 18,Electronics,43158.68
+P019,NexaWatch 19,Electronics,36940.32
+P020,NexaClean 20,Home Appliances,14877.24
+P021,NexaCool 21,Home Appliances,28503.75
+P022,NexaSport 22,Sports,2362.33
+P023,NexaFitPro 23,Sports,4072.02
+P024,NexaWatch 24,Electronics,32546.24
+P025,NexaGear 25,Sports,5907.98
+P026,NexaCool 26,Home Appliances,35869.98
+P027,NexaDaily 27,Grocery,679.05
+P028,NexaChoice 28,Grocery,1591.28
+P029,NexaOrganic 29,Grocery,1818.0
+P030,NexaGear 30,Sports,1320.24
+P031,NexaGlow 31,Beauty,3763.01
+P032,NexaWash 32,Home Appliances,9747.28
+P033,NexaSkin 33,Beauty,670.79
+P034,NexaActive 34,Sports,11427.52
+P035,NexaClassic 35,Fashion,7742.24
+P036,NexaPhone 36,Electronics,62162.62
+P037,NexaWash 37,Home Appliances,15446.09
+P038,NexaChoice 38,Grocery,383.25
+P039,NexaPure 39,Beauty,4200.13
+P040,NexaClassic 40,Fashion,3801.14
+P041,NexaWear 41,Fashion,1415.29
+P042,NexaWash 42,Home Appliances,23545.02
+P043,NexaMix 43,Home Appliances,3961.51
+P044,NexaDenim 44,Fashion,7319.9
+P045,NexaCam 45,Electronics,25338.26
+P046,NexaPhone 46,Electronics,52388.99
+P047,NexaCare 47,Beauty,2076.75
+P048,NexaBuds 48,Electronics,42844.56
+P049,NexaDenim 49,Fashion,4600.33
+P050,NexaClassic 50,Fashion,1886.41
+P999,NexaAI Pro,Electronics,54999.0
