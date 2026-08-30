@@ -241,8 +241,8 @@ The project uses Python 3.11 and the dependencies in Nexamart_BI/requirements.tx
 git clone https://github.com/devanshuwebd/BusinessIntelligence-ai.git
 cd BusinessIntelligence-ai
 git checkout main
-py -3.11 -m venv .venv
-.\.venv\Scripts\Activate.ps1
+python -m venv .venv
+.venv\Scripts\Activate.ps1
 python -m pip install --upgrade pip
 python -m pip install -r .\Nexamart_BI\requirements.txt
 ~~~
