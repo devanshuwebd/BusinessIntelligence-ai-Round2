@@ -346,7 +346,6 @@ A successful Round 2 demonstration should show:
 
 ~~~text
 .
-├── .github/workflows/ci.yml
 ├── Nexamart_BI/
 │   ├── backend/main.py
 │   ├── dashboard/app.py
@@ -361,7 +360,9 @@ A successful Round 2 demonstration should show:
 │   ├── run_pipeline.py
 │   ├── run_full_system.py
 │   ├── requirements.txt
-│   └── docs/round2_demo.md
+│   ├── .env.example
+│   └── Dockerfile
+├── .gitignore
 └── README.md
 ~~~
 
